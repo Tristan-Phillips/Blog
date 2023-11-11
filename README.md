@@ -1,2 +1,5 @@
 # Blog
-My random blog
+
+## My random blog
+
+---
