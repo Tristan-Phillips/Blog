@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.trap.lol/posts/aggro/</loc>
-    <lastmod>2023-11-21T11:02:24+02:00</lastmod>
-  </url><url>
     <loc>https://blog.trap.lol/posts/</loc>
-    <lastmod>2023-11-21T11:02:24+02:00</lastmod>
+    <lastmod>2023-11-21T20:55:23+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.trap.lol/posts/future/</loc>
+    <lastmod>2023-11-21T20:55:23+02:00</lastmod>
   </url><url>
     <loc>https://blog.trap.lol/</loc>
+    <lastmod>2023-11-21T20:55:23+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.trap.lol/posts/aggro/</loc>
     <lastmod>2023-11-21T11:02:24+02:00</lastmod>
   </url><url>
     <loc>https://blog.trap.lol/posts/die/</loc>
