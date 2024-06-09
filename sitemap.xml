@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.trap.lol/posts/</loc>
-    <lastmod>2024-06-05T08:20:06+02:00</lastmod>
+    <loc>https://blog.trap.lol/posts/biguy/</loc>
+    <lastmod>2024-06-09T19:53:57+02:00</lastmod>
   </url><url>
-    <loc>https://blog.trap.lol/posts/progress/</loc>
-    <lastmod>2024-06-05T08:20:06+02:00</lastmod>
+    <loc>https://blog.trap.lol/posts/</loc>
+    <lastmod>2024-06-09T19:53:57+02:00</lastmod>
   </url><url>
     <loc>https://blog.trap.lol/</loc>
+    <lastmod>2024-06-09T19:53:57+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.trap.lol/posts/progress/</loc>
     <lastmod>2024-06-05T08:20:06+02:00</lastmod>
   </url><url>
     <loc>https://blog.trap.lol/posts/next-stage/</loc>
