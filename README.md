@@ -1,5 +1,0 @@
-# Blog
-
-## My random blog
-
----
