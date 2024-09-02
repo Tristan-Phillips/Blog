@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TRAP.LOL</title>
-    <link>https://blog.trap.lol/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on TRAP.LOL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 02 Sep 2024 14:02:59 +0200</lastBuildDate><atom:link href="https://blog.trap.lol/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Sep 2024 14:02:59 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Revive</title>
-      <link>https://blog.trap.lol/posts/revive/</link>
+      <link>http://localhost:1313/posts/revive/</link>
       <pubDate>Mon, 02 Sep 2024 14:02:59 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/revive/</guid>
+      <guid>http://localhost:1313/posts/revive/</guid>
       
       <description>Life is strange. There is so much to do, yet I find myself in the same repetitive loop of actions. Like having a full catalogue of series to watch, but returning to the show you have streamed many times over before. Finding comfort in that which feels familiar. No suprises. Listening to the same songs over and over, currating a playlist of songs to just leave on repeat. Yet so much of my now is because it was at one stage, new.</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Sitting</title>
-      <link>https://blog.trap.lol/posts/sitting/</link>
+      <link>http://localhost:1313/posts/sitting/</link>
       <pubDate>Sun, 25 Aug 2024 12:15:53 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/sitting/</guid>
+      <guid>http://localhost:1313/posts/sitting/</guid>
       
       <description>We live with no observer but ourselves. This is not a sitcom where a character from a show goes through a tough time but can be comforted by the fact that there sits an observer sympathizing with them. Witnessing them. We sit alone. With our own thoughts. Alone. I badly want to document my life, for it to mean something. Probably to understand myself, and possibly for others to understand me.</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Only Once</title>
-      <link>https://blog.trap.lol/posts/only-once/</link>
+      <link>http://localhost:1313/posts/only-once/</link>
       <pubDate>Sun, 25 Aug 2024 09:10:30 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/only-once/</guid>
+      <guid>http://localhost:1313/posts/only-once/</guid>
       
       <description>The feeling that unless you are happy, no one else may be unhappy. I am struggling with this today, The thought that no matter how hard I try, when I finally succeed, those around me lose. A zero-sum game.</description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>The Day</title>
-      <link>https://blog.trap.lol/posts/the-day/</link>
+      <link>http://localhost:1313/posts/the-day/</link>
       <pubDate>Thu, 08 Aug 2024 09:27:58 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/the-day/</guid>
+      <guid>http://localhost:1313/posts/the-day/</guid>
       
       <description>My day has been the start of hopefully something perpetual. Making me work towards a goal in life to allow those around me in my life the kind of life they deserve. I hope to make this feeling of want, to last. To make this feeling of wanting to do, last.
 I go through life always wanting to do, yet never able to. This time I hope I can be that change, if not for me, for those I care deeply for.</description>
@@ -54,10 +54,10 @@ I go through life always wanting to do, yet never able to. This time I hope I ca
     
     <item>
       <title>A Lot on My Mind</title>
-      <link>https://blog.trap.lol/posts/a-lot-on-my-mind/</link>
+      <link>http://localhost:1313/posts/a-lot-on-my-mind/</link>
       <pubDate>Thu, 01 Aug 2024 09:26:47 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/a-lot-on-my-mind/</guid>
+      <guid>http://localhost:1313/posts/a-lot-on-my-mind/</guid>
       
       <description>There is so much on my mind. More than I know how to handle. More than I understand. Recently it hasn’t been loud, yet now, every day, it gets louder. Am I returning to who I was, do I long to be the forgotten me. What drives me towards being that person. What makes me want to hate my life.
 How can someone as priviledged as me, feel this way. The feelings are so mixed, making me just want to leave them all behind.</description>
@@ -66,10 +66,10 @@ How can someone as priviledged as me, feel this way. The feelings are so mixed, 
     
     <item>
       <title>Review</title>
-      <link>https://blog.trap.lol/posts/review/</link>
+      <link>http://localhost:1313/posts/review/</link>
       <pubDate>Wed, 31 Jul 2024 09:25:27 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/review/</guid>
+      <guid>http://localhost:1313/posts/review/</guid>
       
       <description>Where do I find myself today
 This has been a involved journey. Everything around me has shifted slightly, and it all feels like it is turning barely fast enough for me to witness it.
@@ -79,10 +79,10 @@ I am not no longer just one, but I am more, I am appart of a unity, I no longer 
     
     <item>
       <title>New thoughts</title>
-      <link>https://blog.trap.lol/posts/new-thought/</link>
+      <link>http://localhost:1313/posts/new-thought/</link>
       <pubDate>Sun, 30 Jun 2024 09:10:30 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/new-thought/</guid>
+      <guid>http://localhost:1313/posts/new-thought/</guid>
       
       <description>Trying to relive a memory from text, a strange feeling to be sure. Wanting to understand you from the past. Doing so successfully and yet failing at the same time. Would you be able to help the you from the past? would you even be able to pinpoint the change in your life that changed everythig, and if you could, could you truly verbalize the meaning behind it.
 What if we return to being that person.</description>
@@ -91,10 +91,10 @@ What if we return to being that person.</description>
     
     <item>
       <title>Next Stage</title>
-      <link>https://blog.trap.lol/posts/next-stage/</link>
+      <link>http://localhost:1313/posts/next-stage/</link>
       <pubDate>Sun, 12 May 2024 20:03:12 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/next-stage/</guid>
+      <guid>http://localhost:1313/posts/next-stage/</guid>
       
       <description>Approaching a new stage in my life.
 Its been fun thus far.
@@ -105,10 +105,10 @@ I am scared, but also excited
     
     <item>
       <title>Embers</title>
-      <link>https://blog.trap.lol/posts/embers-240414/</link>
+      <link>http://localhost:1313/posts/embers-240414/</link>
       <pubDate>Sun, 14 Apr 2024 20:41:53 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/embers-240414/</guid>
+      <guid>http://localhost:1313/posts/embers-240414/</guid>
       
       <description>#Embers at the end of a night
 Have you ever laid at night, with thoughts chasing through your mind, unable to even properly hold on to one for long enough for it to matter, yet it feels like every thought being felt is an amazing thought. Similar to being drunk where you think somehow you have become a genious.
@@ -118,10 +118,10 @@ I cant remember much, my life is mostly a distant memory to me.</description>
     
     <item>
       <title>Wtf</title>
-      <link>https://blog.trap.lol/posts/wtf/</link>
+      <link>http://localhost:1313/posts/wtf/</link>
       <pubDate>Sat, 13 Apr 2024 11:49:07 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/wtf/</guid>
+      <guid>http://localhost:1313/posts/wtf/</guid>
       
       <description>Everything is becoming more confusing. Everything is dividing. Everything is becoming &amp;ldquo;us&amp;rdquo; vs &amp;ldquo;them&amp;rdquo;. People are just getting more upset each day. No one, including me, even knows what is true any more and who we can or should trust. Those in power abuse it, those without it want it. We are all just trying to survive. When did we stop caring for each other? It&amp;rsquo;s all just a mess. I don&amp;rsquo;t even know what I&amp;rsquo;m doing any more.</description>
       
@@ -129,10 +129,10 @@ I cant remember much, my life is mostly a distant memory to me.</description>
     
     <item>
       <title>Normal</title>
-      <link>https://blog.trap.lol/posts/normal/</link>
+      <link>http://localhost:1313/posts/normal/</link>
       <pubDate>Mon, 08 Apr 2024 10:03:14 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/normal/</guid>
+      <guid>http://localhost:1313/posts/normal/</guid>
       
       <description>Conforming to a type, standard, or regular pattern : characterized by that which is considered usual, typical, or routine Approximating the statistical average or norm
 It feels to me like normal has a new meaning each time it is used. Like a filler word, meaning more than what someone is actually saying. I hate the word for this reason. The lack of more refined words we know to use to describe how we feel.</description>
@@ -141,10 +141,10 @@ It feels to me like normal has a new meaning each time it is used. Like a filler
     
     <item>
       <title>Thinking</title>
-      <link>https://blog.trap.lol/posts/thinking/</link>
+      <link>http://localhost:1313/posts/thinking/</link>
       <pubDate>Thu, 14 Mar 2024 07:42:45 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/thinking/</guid>
+      <guid>http://localhost:1313/posts/thinking/</guid>
       
       <description>My thoughts can not be put into words. Every week when I must recap the week that has passed, I am unable to recall standard events, let alone any significant events. It seems like I can pre-have a conversation fluently within my head, yet as soon as I have to talk to someone about it, it goes blank, I forget, I no longer know. This seems like another &amp;ldquo;everyone has this issue&amp;rdquo;, yet for what it is, this is affecting me.</description>
       
@@ -152,10 +152,10 @@ It feels to me like normal has a new meaning each time it is used. Like a filler
     
     <item>
       <title>Tired</title>
-      <link>https://blog.trap.lol/posts/tired/</link>
+      <link>http://localhost:1313/posts/tired/</link>
       <pubDate>Sun, 10 Mar 2024 17:43:49 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/tired/</guid>
+      <guid>http://localhost:1313/posts/tired/</guid>
       
       <description>I am so tired. Every day, mid day, it hits. A wave of tired. Making me want to do absolutely nothing. Not even doom scroll. It makes me feel utterly useless. My life is a waste, I am achieving nothing, and going nowhere, learning nothing new, nor revising past information. Just being, wanting to sleep. Not even, it goes beyond that. A tiredness beyond needing sleep. One that hits deep within my soul.</description>
       
@@ -163,10 +163,10 @@ It feels to me like normal has a new meaning each time it is used. Like a filler
     
     <item>
       <title>The Center</title>
-      <link>https://blog.trap.lol/posts/the-center/</link>
+      <link>http://localhost:1313/posts/the-center/</link>
       <pubDate>Tue, 05 Mar 2024 07:20:36 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/the-center/</guid>
+      <guid>http://localhost:1313/posts/the-center/</guid>
       
       <description>Pointlessness, in a good way. Falling down into the void. I look out towards the world and the universe, being the center of it all. Not in the self importance view. The view in which all things infinite have no center, thus to me, I am the closes to a center that there can be. We woke up one day having never gone to sleep. Such a fascinating statement, as we will be after what we were before, and to the best of our knowledge, that is nothing.</description>
       
@@ -174,10 +174,10 @@ It feels to me like normal has a new meaning each time it is used. Like a filler
     
     <item>
       <title>Volatile</title>
-      <link>https://blog.trap.lol/posts/volatile/</link>
+      <link>http://localhost:1313/posts/volatile/</link>
       <pubDate>Sun, 03 Mar 2024 07:34:40 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/volatile/</guid>
+      <guid>http://localhost:1313/posts/volatile/</guid>
       
       <description>Characterized by or subject to rapid or unexpected change
 Unexpected change, expected unexpected change. It&amp;rsquo;s the same thing. It&amp;rsquo;s like a paradox, a contradiction, a mind bending puzzle. It&amp;rsquo;s like a riddle that can&amp;rsquo;t be solved. It&amp;rsquo;s like a question that can&amp;rsquo;t be answered. It&amp;rsquo;s like a thought that can&amp;rsquo;t be understood. It&amp;rsquo;s like a feeling that can&amp;rsquo;t be felt. The only thing that is certain is that everything is uncertain.</description>
@@ -186,10 +186,10 @@ Unexpected change, expected unexpected change. It&amp;rsquo;s the same thing. It
     
     <item>
       <title>Mind Bending</title>
-      <link>https://blog.trap.lol/posts/mind-bending/</link>
+      <link>http://localhost:1313/posts/mind-bending/</link>
       <pubDate>Sat, 02 Mar 2024 17:03:04 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/mind-bending/</guid>
+      <guid>http://localhost:1313/posts/mind-bending/</guid>
       
       <description>The weather is frustrated today.
 A day which feels lonely. Nothing feels quite right. My chest is tight, my thoughts are spread apart. Tension sits in my body, my elbows feel compressed, my shoulders are tense. It is a day to be aware of my body. To be aware of the tension and to release it. To be aware of the thoughts and to let them go. To be aware of the feelings and to let them be.</description>
@@ -198,10 +198,10 @@ A day which feels lonely. Nothing feels quite right. My chest is tight, my thoug
     
     <item>
       <title>Lonely</title>
-      <link>https://blog.trap.lol/posts/lonely/</link>
+      <link>http://localhost:1313/posts/lonely/</link>
       <pubDate>Fri, 01 Mar 2024 23:16:01 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/lonely/</guid>
+      <guid>http://localhost:1313/posts/lonely/</guid>
       
       <description>&amp;ldquo;Men, I feel dead inside. Fuck them other guys. I know my mental health, can&amp;rsquo;t take it, I&amp;rsquo;ma fucking die.&amp;rdquo; &amp;ldquo;I feel I hurt all of my people just by being lost.&amp;rdquo; My mental health sits on the ledge of the twin towers. Either I step off and live the rest of my life in peace, or I stay and live the rest of my life on fire and in pain.</description>
       
@@ -209,10 +209,10 @@ A day which feels lonely. Nothing feels quite right. My chest is tight, my thoug
     
     <item>
       <title>Indecision</title>
-      <link>https://blog.trap.lol/posts/indecision/</link>
+      <link>http://localhost:1313/posts/indecision/</link>
       <pubDate>Thu, 29 Feb 2024 20:38:50 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/indecision/</guid>
+      <guid>http://localhost:1313/posts/indecision/</guid>
       
       <description>Decisions. They irritate me. Making a firm decision, feels empowering, yet others are immediately there to shut you down. Leaving you uncertain. Obviously it is easy to say &amp;ldquo;if your decision is swayed, then you were not firm&amp;rdquo;, yet it is not black and white. When those you trust go against you, it is only natural to question ones self again. I feel agitated and frustrated. Trying to notice and process my emotions, instead of logically trying to define my situation.</description>
       
@@ -220,10 +220,10 @@ A day which feels lonely. Nothing feels quite right. My chest is tight, my thoug
     
     <item>
       <title>Seeking Pity</title>
-      <link>https://blog.trap.lol/posts/seeking-pitty/</link>
+      <link>http://localhost:1313/posts/seeking-pitty/</link>
       <pubDate>Thu, 29 Feb 2024 08:47:58 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/seeking-pitty/</guid>
+      <guid>http://localhost:1313/posts/seeking-pitty/</guid>
       
       <description>Why when sharing ones inner soul, does it feel like you have succumb to the feeling of pity seeking There is a lot in my life that I am grateful for. I do not believe I live a terrible life. I have surely heard much worse from others, about the lives they have lived. Thus, I feel ashamed to be given a stage in which I can express my experience.</description>
       
@@ -231,10 +231,10 @@ A day which feels lonely. Nothing feels quite right. My chest is tight, my thoug
     
     <item>
       <title>Good</title>
-      <link>https://blog.trap.lol/posts/good/</link>
+      <link>http://localhost:1313/posts/good/</link>
       <pubDate>Mon, 29 Jan 2024 11:52:03 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/good/</guid>
+      <guid>http://localhost:1313/posts/good/</guid>
       
       <description>What is good? How does one determine if they deserve their life, or not. Each day that passes by, I feel more and more like I am stealing kindness from those around me. Getting granted grace from those too unwilling to set-me-straight. My life feels like a lie, one I can never un-tell. Things keep happening, with no idea as to if it is deserved or not. I, myself, can not possibly deserve good.</description>
       
@@ -242,10 +242,10 @@ A day which feels lonely. Nothing feels quite right. My chest is tight, my thoug
     
     <item>
       <title>Discontent</title>
-      <link>https://blog.trap.lol/posts/discontent/</link>
+      <link>http://localhost:1313/posts/discontent/</link>
       <pubDate>Sat, 20 Jan 2024 08:21:44 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/discontent/</guid>
+      <guid>http://localhost:1313/posts/discontent/</guid>
       
       <description>How is life In shadows deep, where sorrow breeds A weary soul, consumed by need A heart that longs for solace true Weight that burdens on the chest Where contemplation lies and keeps the heart from rest One so deep in thought, they can not breath Fragments of dreams scattered afar There is darkness, a seed of death One may ly and finally rest The soul is broken Pieces blown, from right to left A tormented mind, a heavy breath Seeking something to bring them rest</description>
       
@@ -253,10 +253,10 @@ A day which feels lonely. Nothing feels quite right. My chest is tight, my thoug
     
     <item>
       <title>Comedown</title>
-      <link>https://blog.trap.lol/posts/comedown/</link>
+      <link>http://localhost:1313/posts/comedown/</link>
       <pubDate>Thu, 18 Jan 2024 20:07:58 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/comedown/</guid>
+      <guid>http://localhost:1313/posts/comedown/</guid>
       
       <description>Something that can make you so happy. Feeling like the world loves you. Everything around you is perfect, and so is everyone else. Colors appear vibrant. Movement feels nice, your body feels newly discovered. I dare want to stay in that state for ever. Knowing full well that would cause the magic to be lost. The days that follow remind you of the price you must pay for that short-term relief.</description>
       
@@ -264,10 +264,10 @@ A day which feels lonely. Nothing feels quite right. My chest is tight, my thoug
     
     <item>
       <title>Undefinable</title>
-      <link>https://blog.trap.lol/posts/undefinable/</link>
+      <link>http://localhost:1313/posts/undefinable/</link>
       <pubDate>Tue, 16 Jan 2024 16:49:36 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/undefinable/</guid>
+      <guid>http://localhost:1313/posts/undefinable/</guid>
       
       <description>How do you say that which you have no words for I lack the linguistic ability to describe that which partakes within my mind. How can I describe these thoughts, how can I put words to the things that exist within me. How do I do it in a way that proves it is real, or that proves to others that I am not insane. I speak fluently within my mind.</description>
       
@@ -275,10 +275,10 @@ A day which feels lonely. Nothing feels quite right. My chest is tight, my thoug
     
     <item>
       <title>Who</title>
-      <link>https://blog.trap.lol/posts/who/</link>
+      <link>http://localhost:1313/posts/who/</link>
       <pubDate>Mon, 04 Dec 2023 17:03:34 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/who/</guid>
+      <guid>http://localhost:1313/posts/who/</guid>
       
       <description>A person who doesn&amp;rsquo;t know what the universe is, doesn&amp;rsquo;t know where they are. A person who doesn&amp;rsquo;t know their purpose in life doesn&amp;rsquo;t know who they are or what the universe is. A person who doesn&amp;rsquo;t know any of these things doesn&amp;rsquo;t know why they are here. So what to make of people who seek or avoid the praise of those who have no knowledge of where or who they are?</description>
       
@@ -286,10 +286,10 @@ A day which feels lonely. Nothing feels quite right. My chest is tight, my thoug
     
     <item>
       <title>Intentions</title>
-      <link>https://blog.trap.lol/posts/intentions/</link>
+      <link>http://localhost:1313/posts/intentions/</link>
       <pubDate>Sun, 03 Dec 2023 11:23:21 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/intentions/</guid>
+      <guid>http://localhost:1313/posts/intentions/</guid>
       
       <description>Let all your efforts be directed to something, let it keep that end in view/ It&amp;rsquo;s not activity that disturbs people, but false conceptions of things that drive them mad.
 Seneca, On Tranquility of Mind, 12.5
@@ -300,10 +300,10 @@ Having an end in mind is no guarantee that you&amp;rsquo;ll reach it, but not ha
     
     <item>
       <title>Big Three</title>
-      <link>https://blog.trap.lol/posts/big-three/</link>
+      <link>http://localhost:1313/posts/big-three/</link>
       <pubDate>Fri, 01 Dec 2023 07:56:28 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/big-three/</guid>
+      <guid>http://localhost:1313/posts/big-three/</guid>
       
       <description>All you need are these: certainty of judgement in the present moment; action for the common good in the present moment; and an attitude of gratitude in the present moment for anything that comes your way.
 Marcus Aurelius, Meditations, 9.6
@@ -319,10 +319,10 @@ The three most essential parts of Stoic philosophy.
     
     <item>
       <title>Ruthless</title>
-      <link>https://blog.trap.lol/posts/ruthless/</link>
+      <link>http://localhost:1313/posts/ruthless/</link>
       <pubDate>Thu, 30 Nov 2023 08:00:32 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/ruthless/</guid>
+      <guid>http://localhost:1313/posts/ruthless/</guid>
       
       <description>How many have laid waste to your life when you weren&amp;rsquo;t aware of what you were losing, how much was wasted in pointless grief, foolish joy, greedy desire, and social amusements - how little of your own was left of you. You will realize you are dying before your time!
 Seneca, On the brevity of life, 303b
@@ -332,10 +332,10 @@ Learn to say no. Something I never do. Friends want to hang out, but you don&amp
     
     <item>
       <title>Education</title>
-      <link>https://blog.trap.lol/posts/education/</link>
+      <link>http://localhost:1313/posts/education/</link>
       <pubDate>Wed, 29 Nov 2023 22:25:08 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/education/</guid>
+      <guid>http://localhost:1313/posts/education/</guid>
       
       <description>What is the fruit of these teachings? Only the most beautiful and proper harvest of the truly educated - tranquility, fearlessness, and freedom. We should not trust the masses who say only the free can be educated, but rather the lovers of wisdom who say that only the educated are free.
 Epictetus, Discourses, 2.1.21-23a
@@ -345,10 +345,10 @@ To be educated means to be free. Value knowledge and value the act of learning. 
     
     <item>
       <title>Focus</title>
-      <link>https://blog.trap.lol/posts/focus/</link>
+      <link>http://localhost:1313/posts/focus/</link>
       <pubDate>Tue, 28 Nov 2023 14:15:14 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/focus/</guid>
+      <guid>http://localhost:1313/posts/focus/</guid>
       
       <description>The chief task in life is simply this: To identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not uncontrollable externals, but within myself to the choices that are my own
 -Epictetus, Discourses, 2.5.4-5 Our focus should be on that which we can control, not that which we cannot.</description>
@@ -357,10 +357,10 @@ To be educated means to be free. Value knowledge and value the act of learning. 
     
     <item>
       <title>Guilt</title>
-      <link>https://blog.trap.lol/posts/guilt/</link>
+      <link>http://localhost:1313/posts/guilt/</link>
       <pubDate>Mon, 27 Nov 2023 07:07:50 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/guilt/</guid>
+      <guid>http://localhost:1313/posts/guilt/</guid>
       
       <description>Why do I feel guilt? Seriously, whenever I do something for myself, I feel a sense of guilt. Is it because I am not doing the right thing? I am not doing what I am supposed to? The shame I feel, for doing something for myself, because I can, makes my stomach turn. Doing something that is not for my, or someone elses future benefit. It drives me insane. I cant enjoy it, I cant appreciate it, all I do is feel guilt and shame.</description>
       
@@ -368,10 +368,10 @@ To be educated means to be free. Value knowledge and value the act of learning. 
     
     <item>
       <title>The Future</title>
-      <link>https://blog.trap.lol/posts/future/</link>
+      <link>http://localhost:1313/posts/future/</link>
       <pubDate>Tue, 21 Nov 2023 20:55:23 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/future/</guid>
+      <guid>http://localhost:1313/posts/future/</guid>
       
       <description>I live in the future, and I dont mean, &amp;ldquo;Oh I constantly look towards the future&amp;rdquo;.
 I mean I actually live in the future. I see it happening, feel it happening, watch it happen. Living my life today, watching the me of tomorrow. Theres nothing like this. It brings a wave of sadness. Watching yourself from the present looking towards the future looking back towards the past. It brings joy as well though, a sense of relief, that every moment now, will be okay.</description>
@@ -380,10 +380,10 @@ I mean I actually live in the future. I see it happening, feel it happening, wat
     
     <item>
       <title>Aggro</title>
-      <link>https://blog.trap.lol/posts/aggro/</link>
+      <link>http://localhost:1313/posts/aggro/</link>
       <pubDate>Tue, 21 Nov 2023 11:02:24 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/aggro/</guid>
+      <guid>http://localhost:1313/posts/aggro/</guid>
       
       <description>Sometimes a person gets mad.
 Mad for no reason at all.
@@ -397,10 +397,10 @@ Why can one person make you feel this way, why can you treat an individual with 
     
     <item>
       <title>When do you die?</title>
-      <link>https://blog.trap.lol/posts/die/</link>
+      <link>http://localhost:1313/posts/die/</link>
       <pubDate>Mon, 20 Nov 2023 20:42:33 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/die/</guid>
+      <guid>http://localhost:1313/posts/die/</guid>
       
       <description>Is it possible to die before your death?
 And I don&amp;rsquo;t mean the classical, no-feelings die, like we all have.
@@ -413,10 +413,10 @@ To live life as though you are talking to that you in the future, and telling th
     
     <item>
       <title>Neutral</title>
-      <link>https://blog.trap.lol/posts/neutral/</link>
+      <link>http://localhost:1313/posts/neutral/</link>
       <pubDate>Mon, 13 Nov 2023 20:43:24 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/neutral/</guid>
+      <guid>http://localhost:1313/posts/neutral/</guid>
       
       <description>Yes / No / Maybe Why can one be in two contradictory states at the same time. Being completely aware that your states conflict, yet not feeling able to change it. More than wanting either state, more like being content with either state. Accepting one or the other, not rejecting either, but being in a place of peace regardless. It makes you positive, brightens your day, gives you hope. You wonder about both possibilities, daydreaming.</description>
       
@@ -424,10 +424,10 @@ To live life as though you are talking to that you in the future, and telling th
     
     <item>
       <title>Trip Report 01</title>
-      <link>https://blog.trap.lol/posts/trip-report-01/</link>
+      <link>http://localhost:1313/posts/trip-report-01/</link>
       <pubDate>Sat, 11 Nov 2023 20:47:44 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/trip-report-01/</guid>
+      <guid>http://localhost:1313/posts/trip-report-01/</guid>
       
       <description>2023-10-08 - 2g Albino Penis Envy I didn&amp;rsquo;t start the day thinking I was going to be doing mushrooms. It started like most Sundays for me. I woke up, studied a bit and then went to watch TV in the living room. I watched Dr K. and in the video he talks about people requiring idle time in the mind to help process emotions. I took this advice seriously, but thought I would &amp;ldquo;intensify&amp;rdquo; the idle time with the use of mushrooms.</description>
       
@@ -435,10 +435,10 @@ To live life as though you are talking to that you in the future, and telling th
     
     <item>
       <title>Your Fault</title>
-      <link>https://blog.trap.lol/posts/your-fault/</link>
+      <link>http://localhost:1313/posts/your-fault/</link>
       <pubDate>Sat, 11 Nov 2023 20:44:56 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/your-fault/</guid>
+      <guid>http://localhost:1313/posts/your-fault/</guid>
       
       <description>Mental illness is so strange. You cant see it, you doubt it is there, no one really seems to believe you, even you don&amp;rsquo;t know if you are being true. I cant decide if I am responsible for the way I feel. Obviously my overall attitude towards life will impact how I feel, but is it really as simple as just deciding &amp;ldquo;now I will be positive&amp;rdquo;. That seems to be what everyone else implies when I talk to them about how I feel.</description>
       
@@ -446,10 +446,10 @@ To live life as though you are talking to that you in the future, and telling th
     
     <item>
       <title>Identity</title>
-      <link>https://blog.trap.lol/posts/identity/</link>
+      <link>http://localhost:1313/posts/identity/</link>
       <pubDate>Sat, 11 Nov 2023 20:39:14 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/identity/</guid>
+      <guid>http://localhost:1313/posts/identity/</guid>
       
       <description>Self-identity refers to the way in which individuals define themselves and perceive themselves in relation to the world around them. At its core, self-identity is about understanding who we are, what makes us unique, and how we fit into the broader social and cultural contexts in which we exist. So, who are you? What does it mean when that identity shatters, the moments that follow after you realize who you thought yourself to be is completely incorrect.</description>
       
@@ -457,10 +457,10 @@ To live life as though you are talking to that you in the future, and telling th
     
     <item>
       <title>Brain Fog</title>
-      <link>https://blog.trap.lol/posts/brain-fog/</link>
+      <link>http://localhost:1313/posts/brain-fog/</link>
       <pubDate>Sat, 11 Nov 2023 20:32:57 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/brain-fog/</guid>
+      <guid>http://localhost:1313/posts/brain-fog/</guid>
       
       <description>My head makes me feel like a sailor in the middle of the ocean on a foggy night with no lighthouse in sight. Like water having to move from one side of a sponge through to the other side. Every thought being caught in a barrier that rips them apart. Like muddy water I can not see my thoughts. They speed away faster than I can move. They change direction in attempts to evade me.</description>
       
@@ -468,10 +468,10 @@ To live life as though you are talking to that you in the future, and telling th
     
     <item>
       <title>Main Character</title>
-      <link>https://blog.trap.lol/posts/main-character/</link>
+      <link>http://localhost:1313/posts/main-character/</link>
       <pubDate>Sat, 11 Nov 2023 20:26:43 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/main-character/</guid>
+      <guid>http://localhost:1313/posts/main-character/</guid>
       
       <description>I grew up with a steady stream of media, promoting a protagonist, someone who is the centre of all attention, someone around which the world revolves. No wonder I had all these big ideas and plans, believing I, somehow me, is the centre of the universe. Placing such importance on the actions I choose, as it would affect anyone and everyone … such bullshit The truth is, even on a small scale, my life means nothing to many.</description>
       
@@ -479,14 +479,25 @@ To live life as though you are talking to that you in the future, and telling th
     
     <item>
       <title>Hello World</title>
-      <link>https://blog.trap.lol/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Sat, 11 Nov 2023 13:30:09 +0200</pubDate>
       
-      <guid>https://blog.trap.lol/posts/hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
       
       <description>Introduction I am Tristan Phillips, a nobody who is looking to just play around on the internet.
 What will I post here? My thoughts and experiences, and anything in-between
 What do I expect? This is simply a kind of public journal for me, to keep track of my life in a way that I control the information being shared. Even if it is very public and personal to me. I hope to be able to look back on this in the future and see how far I have come</description>
+      
+    </item>
+    
+    <item>
+      <title>Therapy</title>
+      <link>http://localhost:1313/posts/therapy/</link>
+      <pubDate>Wed, 18 Aug 2021 14:16:46 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/therapy/</guid>
+      
+      <description>Imported from Day One Adapted and nit-picked for details I need to see a psychologist. I want to die. I feel empty. It hurts me to be here. But at the same time I feel nothing. [redacted] must be disappointed in me. And [redacted] must think I&amp;rsquo;m a lazy shit. I would be disappointed if I was my own child. My body shakes. It&amp;rsquo;s probably the lack of food and the caffeine.</description>
       
     </item>
     
